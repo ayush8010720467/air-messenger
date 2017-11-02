@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "920053574006",
+    "firebase_url": "https://airmessenger-bface.firebaseio.com",
+    "project_id": "airmessenger-bface",
+    "storage_bucket": "airmessenger-bface.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920053574006:android:e641dea532a71f51",
+        "android_client_info": {
+          "package_name": "com.teamgmail.messenger.air.airmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920053574006-fg3isp064aphc2sbs62pomslks19m91k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamgmail.messenger.air.airmessenger",
+            "certificate_hash": "8c22cc2015ba724b7a70716d3b5d6b6efc35c530"
+          }
+        },
+        {
+          "client_id": "920053574006-jr5a3kd9v9d2bn3gg12cf6oj4atfl03v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-9frjR9LXyGfopsovWvYFtmSACO4sv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920053574006-pbc917se8kmu90hdp69r6g32uocqo0f6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Kushagras.AirMessanger"
+              }
+            },
+            {
+              "client_id": "920053574006-jr5a3kd9v9d2bn3gg12cf6oj4atfl03v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
